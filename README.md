@@ -1,4 +1,4 @@
-# Skills Developed – Big Data Analytics Tools
+# Hive and Spark - Mini Project – Big Data Analytics Tools
 
 This summary outlines the practical, hands-on skills developed through the assignment exercises. The course focused on using modern big data tools such as Hadoop, Hive, and Apache Spark for data ingestion, transformation, and analysis.
 
